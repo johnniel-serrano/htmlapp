@@ -4,4 +4,4 @@ function foo() {
     return 'bar'
 }
 
-foo()
+console.log(foo())
